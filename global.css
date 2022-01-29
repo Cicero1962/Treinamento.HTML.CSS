@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  list-style: none;
+}
+body{
+  font-family: 'Fira Sans', sans-serif;
+  background-color: #f0ecec;
+}
+
+img{
+  max-width:100%;
+  display: block;
+  height: auto;
+  }
+  .subtitulo{
+    font-size: 8rem;
+    word-break: break-all;
+    max-width: 4ch;
+    line-height: 1;
+    text-transform: uppercase;
+  }
