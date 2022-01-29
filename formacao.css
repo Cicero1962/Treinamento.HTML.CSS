@@ -111,6 +111,10 @@
   }
   .formacao-texto{
     font-size: 1.125rem;
+    color: #03030303;
+    line-height: 1.33;
+    margin-bottom: 60px;
+    max-width: 40ch;
   }
   .formacao-extra h3::before{
     top: -30px;
